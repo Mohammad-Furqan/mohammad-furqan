@@ -2,7 +2,7 @@
 
 🚀 **Software Developer** | Full Stack |
 📍 Pune, India  
-✉️ [mohammad.furqan0811@gmail.com](mailto:mohammad.furqan0811@gmail.com)  |  🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-furqan)                    
+✉️ [mohammad.furqan0811@gmail.com](mailto:mohammad.furqan0811@gmail.com)  |  🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-furqan0811)                  
 
 ---
 
@@ -116,5 +116,5 @@ Smt Maherbanu College of Science & Commerce – Akola
 
 I'm open to collaborations on exciting projects. Feel free to reach out!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-furqan)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-furqan0811)
 - 📧 [mohammad.furqan0811@gmail.com](mailto:mohammad.furqan0811@gmail.com)
