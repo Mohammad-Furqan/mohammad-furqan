@@ -47,7 +47,7 @@ I'm a passionate Software Developer with experience in both frontend and backend
 ### 💼 Work Experience
 
 **Junior Software Developer**  
-*[Fladdra Technologies](https://careerview.fladdra.com) – Pune | Mar 2024 – Present*
+*[Fladdra Technologies](https://fladdra.com) – Pune | Mar 2024 – Present*
 
 - Developed key features (authentication, dashboards) using Django REST Framework and React/Next.js.
 - Built responsive UIs with Tailwind CSS and managed backend with PostgreSQL.
