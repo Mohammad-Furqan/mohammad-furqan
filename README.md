@@ -1,10 +1,8 @@
 ## 📌 Mohammad Furqan
 
-🚀 **Software Developer** | Full Stack | React | Django | FastAPI | AI Integration  
+🚀 **Software Developer** | Full Stack |
 📍 Pune, India  
-✉️ [mohammad.furqan0811@gmail.com](mailto:mohammad.furqan0811@gmail.com)  
-📞 +91 9146496649  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-furqan)
+✉️ [mohammad.furqan0811@gmail.com](mailto:mohammad.furqan0811@gmail.com)  |  🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-furqan)                    
 
 ---
 
@@ -42,7 +40,7 @@ I'm a passionate Software Developer with experience in both frontend and backend
 ### 💼 Work Experience
 
 **Junior Software Developer**  
-*Fladdra Technologies – Pune | Mar 2024 – Present*
+*[Fladdra Technologies](https://careerview.fladdra.com) – Pune | Mar 2024 – Present*
 
 - Developed key features (authentication, dashboards) using Django REST Framework and React/Next.js.
 - Built responsive UIs with Tailwind CSS and managed backend with PostgreSQL.
@@ -109,8 +107,8 @@ Smt Maherbanu College of Science & Commerce – Akola
 ---
 
 ### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Furqan&layout=compact&theme=tokyonight&langs_count=8&hide_border=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Furqan&theme=tokyonight&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Furqan&layout=compact&theme=light&langs_count=8&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Furqan&theme=light&hide_border=false)
 
 ---
 
