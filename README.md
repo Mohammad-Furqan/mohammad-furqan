@@ -2,9 +2,16 @@
 
 🚀 **Software Developer** | Full Stack |
 📍 Pune, India  
-✉️ [mohammad.furqan0811@gmail.com](mailto:mohammad.furqan0811@gmail.com)  |  🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-furqan0811)                  
+<div align="left">
+  <a href="mailto:mohammad.furqan0811@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-furqan0811" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
----
+
 
 ### 👋  Hello There!
 
@@ -109,12 +116,25 @@ Smt Maherbanu College of Science & Commerce – Akola
 ### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Furqan&layout=compact&theme=light&langs_count=8&hide_border=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Furqan&theme=light&hide_border=false)
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Furqan&bg_color=121212&color=ffffff&line=ffffff&point=00ff40&area=true&hide_border=true" alt="Mohammad-Furqan" /></p>
 
 ---
 
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
+
+
+---
 ### 📫 Let's Connect!
 
 I'm open to collaborations on exciting projects. Feel free to reach out!
+<div align="left">
+  <a href="mailto:mohammad.furqan0811@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-furqan0811" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-furqan0811)
-- 📧 [mohammad.furqan0811@gmail.com](mailto:mohammad.furqan0811@gmail.com)
